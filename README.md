@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -42,6 +43,8 @@ Publish the website in the given URL.
             font-weight: bold;
             border-radius: 2px;
         }
+
+
         input[type="button"]{
             width: 100%;
             padding: 20px 40px;
@@ -92,8 +95,10 @@ Publish the website in the given URL.
         </form>
     </body>
 </html>
+```
 
 ## OUTPUT:
+![image](https://github.com/Nethraa24/standard-calculator/assets/121215786/2680e240-9f25-46f1-a23d-1c78830d74ca)
 
 ## Result:
 The Simple Calculator web application is now ready to use.
